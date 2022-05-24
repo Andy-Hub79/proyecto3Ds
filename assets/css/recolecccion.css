@@ -1,0 +1,45 @@
+*{
+    font-family: sans-serif;
+    
+    font-size: 20px;
+}
+
+h1{
+    color: #1d3557;
+}
+
+h2{
+    color: #1d3557;
+}
+
+ul.menu{
+    list-style-type: none;
+    background-color: #457b9d;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+li.liMenu{
+    float: left; /*formato de la lista*/
+}
+
+li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color: #1d3557;
+}
+
+.recolectando2{
+    width: 500px;
+    height: 500px;
+    float: right;
+    padding: 2px;
+    margin: 2px;
+}
